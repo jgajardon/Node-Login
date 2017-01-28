@@ -13,6 +13,14 @@ Login realizado con Node JS, Express y base de datos NOSQL MongoDB, para el dise
 
 ## Instalación
 
-Descargar ZIP o clonar repositorio, aplicar npm install y ir al localhost:3000.
+Descargar ZIP o clonar repositorio, ingresar a la carpeta del proyecto, ejecutar el comando:
+
+```
+
+	> npm start
+  
+```
+
+Y listo!
 
 
